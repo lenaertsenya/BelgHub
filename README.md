@@ -48,7 +48,7 @@ International Journal of Hydrogen Energy, https://doi.org/10.1016/j.ijhydene.202
 Dhondt, N., Mendez Alva, F., & Van Eetvelde, G. (2024). Introducing industrial clusters in multi-node energy system modelling by the application of the industry–infrastructure quadrant. SUSTAINABILITY, 16(6). https://doi.org/10.3390/su16062585
 
 ### Version history
-4th of June 2024 - Version 0
+9th of June 2024 - Version 0
 
 ### Acknowledgement
 This work is supported via the energy transition funds project ‘Trilate’ organized by the FPS economy, S.M.E.s, Self-employed and Energy.
